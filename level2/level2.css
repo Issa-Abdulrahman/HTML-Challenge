@@ -1,0 +1,24 @@
+h1{
+    color: purple;
+    font-style: italic;
+    font-weight: bolder;
+
+}
+
+menu{
+    color: lightslategray;
+    font-weight: bold;
+    font-size: medium;
+}
+footer{
+    color: darkorchid;
+    font-style: italic;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ol{
+    color: darkcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: large;
+}
